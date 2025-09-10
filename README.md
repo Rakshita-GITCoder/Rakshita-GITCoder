@@ -32,15 +32,15 @@
   <tr>
     <td align="center" width="50%">
       <a href="https://asha-test.onrender.com">
-        <img src="https://github.com/user-attachments/assets/e0b7af36-4fe0-4c0d-a4cc-fa0ec63e8e69" alt="Project 1" width="250" />
+         <img src="https://github.com/user-attachments/assets/14979da7-dc93-4282-ab13-722b556e439c" alt="Project 2" width="250" />
       </a>
       <p><em>Asha AI, a Python-based career guidance chatbot using Google Gemini and local embedding RAG for relevant and bias-free recommendations.</em></p>
     </td>
     <td align="center" width="50%">
       <a href="https://chatting-application-mern.vercel.app/login">
-        <img src="https://github.com/user-attachments/assets/14979da7-dc93-4282-ab13-722b556e439c" alt="Project 2" width="250" />
+        <img src="https://github.com/user-attachments/assets/e0b7af36-4fe0-4c0d-a4cc-fa0ec63e8e69" alt="Project 1" width="250" />
       </a>
-      <p><em>Quick Chat, a real time MERN stack chat app with secure JWT authentication, Cloudinary profile media, and responsive UI using Tailwind CSS.</em></p>
+      <p><em>Quick Chat, a real-time MERN stack chat app with secure JWT authentication, Cloudinary profile media, and responsive UI using Tailwind CSS.</em></p>
     </td>
   </tr>
 </table>
